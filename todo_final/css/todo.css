@@ -1,0 +1,15 @@
+@charset "utf-8";
+
+* {box-sizing:border-box;}
+		body {width:30%;margin:2rem auto; }
+		h2 {text-align:center; margin:2rem 0;}
+		.donestyle {	text-decoration: line-through;	color: lightgray;	}
+		.h {margin-bottom:1rem;height:30px;width:100%;	}	
+
+		label {display:inline-block; width:100%;position:relative;}
+
+	  .btn {position:absolute;right:0; color:tomato;font-weight:bold;
+	           background:none; border:none;}
+     .result {margin-top:2rem; text-align:center;}
+     .box {height:25px; line-height:25px;}
+	 .box input {position:relative;top:-2px;}
